@@ -131,8 +131,4 @@ MIT License - see LICENSE file for details.
 
 ### Telegram: [manchatz](https://t.me/manchatz)
 
-https://t.me/devid327
-
 ### Twitter: [EleazarTlapala](https://x.com/EleazarTlapala)
-
-https://x.com/devid327
