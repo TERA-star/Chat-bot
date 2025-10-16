@@ -1,4 +1,4 @@
-# HippChat - Secure 1:1 Encrypted Chat App
+# Chatbot - Secure 1:1 Encrypted Chat App
 
 A React Native chat application built with Expo that provides end-to-end encrypted messaging using Hippius S3 as the storage backend. Users are identified by Bittensor hotkeys derived from mnemonics, and all messages are encrypted using XChaCha20-Poly1305 sealed boxes.
 
